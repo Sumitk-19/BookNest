@@ -64,9 +64,14 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          At BookNest, we believe that learning should be accessible to everyone. Along with our collection of books, we offer free courses to help you expand your knowledge and skills.
+
+ Available Free Courses:
+Basics of Digital Marketing  Learn how to grow businesses online.
+Introduction to Web Development Start your journey in HTML, CSS, and JavaScript.
+Effective Study Techniques Improve focus and productivity.
+Financial Literacy for Beginners  Learn smart money management.
+Creative Writing Workshop  Enhance your storytelling and writing skills.
           </p>
         </div>
 
